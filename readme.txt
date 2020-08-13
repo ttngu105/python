@@ -1,0 +1,1 @@
+this is used to find the percentage of how manny times a letter appears in a body of text. the input file for text has to be named "encrypted_text.txt". the percentage is outputted to the file "percentage of leters.txt"
